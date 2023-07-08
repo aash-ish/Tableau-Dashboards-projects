@@ -1,16 +1,16 @@
-**The dashboard was made using Tableau by analysing and visualizing the data**.
+The dashboard was made using Tableau by analysing and visualizing the data.
 
 Netflix is a top international streaming service provider.
 This is a Netflixs shows interactive dashboard.
 
-*The dashboard shows descriptive insights about : 
-*Top prefered Genre's
-*Distribution of TV shows and Movies on netflix.
-*Release years of movies and TV shows
-*Count of movies which had various ratings.
-*Total movies and TV shows By country.
+The dashboard shows descriptive insights about : 
+Top prefered Genre's
+Distribution of TV shows and Movies on netflix.
+Release years of movies and TV shows
+Count of movies which had various ratings.
+Total movies and TV shows By country.
 
-***You can filter the Dashboard by a TV show or movie and it's Title.  Once filtered, you will see it's Release Year & Date, Duration, Ratings, Genre, Description***
+You can filter the Dashboard by a TV show or movie and it's Title.  Once filtered, you will see it's Release Year & Date, Duration, Ratings, Genre, Description***
 
 Refer the below hyperlink to visit and try the dashboard !
-![Netflix Interactive Dashboard](https://public.tableau.com/views/Interactivenetflixshows/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Netflix Interactive Dashboard](https://public.tableau.com/views/Interactivenetflixshows/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
